@@ -1,0 +1,34 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Calango<projeto_02_calango_b8deb6a3>",
+            "request": "launch",
+            "mainClass": "Calango",
+            "projectName": "projeto_02_calango_b8deb6a3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-interacao<projeto_02_calango_b8deb6a3>",
+            "request": "launch",
+            "mainClass": "interacao",
+            "projectName": "projeto_02_calango_b8deb6a3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-mago",
+            "request": "launch",
+            "mainClass": "mago"
+        }
+    ]
+}
