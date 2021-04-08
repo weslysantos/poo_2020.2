@@ -192,7 +192,6 @@ class Agenda {
 			if(ui[0].equals("add")) {
 				ArrayList<Fone> fones = new ArrayList<>();
 				String name = ui[1];
-				// add maykon claro:9999
 
 				for(int i = 2; i < ui.length; i++) {
 					String[] fone = ui[i].split(":");
