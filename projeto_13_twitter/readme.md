@@ -1,0 +1,5 @@
+1. Fiz o projeto Twitter, utilizando TreeMap, a class User, Controller, Tweet e a Main. Os usuários se cadastram e podem seguir outros usuários do sistema. Ao twittar, a mensagem vai para timeline de todas as pessoas que a seguem. Realizei todos os testes de acordo com o https://qxcodepoo.github.io/twitter/.
+2. Sozinho.
+3. Vendo as aulas anteriores e olhando alguns fóruns.
+4. O mesmo objeto User estará armazenado no repositório de usuários, como também nas listas de seguidores e seguidos do próprio usuário. Também o objeto Tweet estará tanto na lista de meusTweets do usuário que postou como na timeline de seus seguidores. Dado que é o mesmo objeto tweet, quando uma usuário dá like e altera o objeto, todos vêem quem deu o like. Tweets são gerados através de uma Classe Geradora de Tweets. Também User utiliza um contador de mensagem não lidas para mostrar apenas as novas mensagens
+5. 3 horas.
